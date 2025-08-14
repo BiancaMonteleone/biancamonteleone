@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="45"><b>Hi , I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="45"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="45"><b>Hi, I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="45"></h1>
 <h3 align="center">A programming student from Argentina</h3>
 
 <img align="right" width=250px alt="Unicorn" src="https://media.tenor.com/efbi1EpFlVUAAAAi/bugcat-capoo.gif" />
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **biancamonteleone16@gmail.com**
 
-- ⚡ What I like to do: **I like playing videogames, listening to music and going to the gym...and coding of course**
+- ⚡ What I like to do: **I like playing videogames, listening to music and going to the gym... and coding of course**
 
 ## Languages and Tools
 
