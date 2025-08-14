@@ -1,9 +1,9 @@
-<h1 align="center"><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="50"><b>Hi , I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="50"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="45"><b>Hi , I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="45"></h1>
 <h3 align="center">A programming student from Argentina</h3>
 
 <img align="right" width=250px alt="Unicorn" src="https://media.tenor.com/efbi1EpFlVUAAAAi/bugcat-capoo.gif" />
 
-<img src="https://i.pinimg.com/originals/92/40/9f/92409f75241dbe1c5962c01a3a72ccf0.gif" width="30px">&nbsp;***About me***
+<img src="https://i.pinimg.com/originals/92/40/9f/92409f75241dbe1c5962c01a3a72ccf0.gif" width="35px">&nbsp;***About me***
 
 - 🌱 I’m currently learning **JavaScript, HTML5 and CSS3**
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancamonteleone16@gmail.com@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=biancamonteleone16@gmail.com)
   
 </div>
 
