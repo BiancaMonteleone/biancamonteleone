@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.pinimg.com/originals/91/e7/17/91e71710ba9b5c1be8ec9d655fbe4670.gif" width="50"><b>Hi , I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/91/e7/17/91e71710ba9b5c1be8ec9d655fbe4670.gif" width="50"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="50"><b>Hi , I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="50"></h1>
 <h3 align="center">A programming student from Argentina</h3>
 
 <img align="right" width=250px alt="Unicorn" src="https://media.tenor.com/efbi1EpFlVUAAAAi/bugcat-capoo.gif" />
@@ -16,7 +16,9 @@
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancamonteleone16@gmail.com)
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancamonteleone16@gmail.com@gmail.com)
+  
 </div>
 
 ## Languages and Tools
