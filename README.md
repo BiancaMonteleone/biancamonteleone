@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **biancamonteleone16@gmail.com**
 
-- ⚡ What I like to do: **I like so much playing videogames, listening to music and going to the gym...and coding of course**
+- ⚡ What I like to do: **I like playing videogames, listening to music and going to the gym...and coding of course**
 
 ## Languages and Tools
 
