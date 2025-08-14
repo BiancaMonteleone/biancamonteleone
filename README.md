@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F840554717954923568%2F&psig=AOvVaw3uIGS9PGp-Ss_HrRG--0-v&ust=1755284705875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiKkp__io8DFQAAAAAdAAAAABAj" width="50"><b>Hi , I'm Bianca Monteleone </b><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F840554717954923568%2F&psig=AOvVaw3uIGS9PGp-Ss_HrRG--0-v&ust=1755284705875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiKkp__io8DFQAAAAAdAAAAABAj" width="50"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/91/e7/17/91e71710ba9b5c1be8ec9d655fbe4670.gif" width="50"><b>Hi , I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/91/e7/17/91e71710ba9b5c1be8ec9d655fbe4670.gif" width="50"></h1>
 <h3 align="center">A programming student from Argentina</h3>
 
 <img align="right" width=250px alt="Unicorn" src="https://media.tenor.com/efbi1EpFlVUAAAAi/bugcat-capoo.gif" />
@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](biancamonteleone16@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancamonteleone16@gmail.com)
 </div>
 
 ## Languages and Tools
