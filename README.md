@@ -1,9 +1,9 @@
-<h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjZzgzaHprc3A3djVka2Q3ZHByMmlyYXYzZ3o1enZjZmc5NWd3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pw60ZRr5ZEWkT5OGsy/giphy.gif" width="35"><b>Hi , I'm Bianca Monteleone </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjZzgzaHprc3A3djVka2Q3ZHByMmlyYXYzZ3o1enZjZmc5NWd3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pw60ZRr5ZEWkT5OGsy/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/08/87/96/0887968881b2ea5483238499c08fe39e.gif" width="35"><b>Hi , I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/08/87/96/0887968881b2ea5483238499c08fe39e.gif" width="35"></h1>
 <h3 align="center">A programming student from Argentina</h3>
 
-<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJrd3RjdnNuMXRsM2M4ZjFiZGxraGM5czZiazRudXV5ZGRqcjVpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLz0XF6f3ER1T7Tti1/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/c6/7f/d9/c67fd9080d3b0a28c508b50492078abf.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://i.pinimg.com/originals/92/40/9f/92409f75241dbe1c5962c01a3a72ccf0.gif" width="30px">&nbsp;***About me***
 
 - 🌱 I’m currently learning **JavaScript, HTML5 and CSS3**
 
@@ -39,6 +39,6 @@
 </span>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=biancamonteleone&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancamonteleone&theme=react&layout=compact" />
 </p>
