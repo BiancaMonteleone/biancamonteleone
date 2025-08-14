@@ -13,12 +13,6 @@
 
 - ⚡ What I like to do: **I like so much playing videogames, listening to music and going to the gym...and coding of course**
 
-## Connect with me
-
-<div align="left"> 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=biancamonteleone16@gmail.com)
-</div>
-
 ## Languages and Tools
 
 <h4> Languages </h4>
