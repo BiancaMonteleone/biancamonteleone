@@ -15,11 +15,9 @@
 
 ## Connect with me
 
-<div align="center">
-
+<span> 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=biancamonteleone16@gmail.com)
-  
-</div>
+</span>
 
 ## Languages and Tools
 
