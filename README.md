@@ -13,7 +13,7 @@
 
 - ⚡ What I like to do: **I like so much playing videogames, listening to music and going to the gym...and coding of course**
 
-<h3 align="center">Connect with me:</h3>
+## Connect with me
 
 <div align="center">
 
