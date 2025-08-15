@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="45"><b>Hi, I'm Bianca Monteleone </b><img src="https://i.pinimg.com/originals/27/66/ab/2766ab19e30e26a3dcf20273d3f0faa9.gif" width="45"></h1>
 <h3 align="center">A programming student from Argentina</h3>
 
-<img align="right" width=250px alt="Unicorn" src="https://media.tenor.com/efbi1EpFlVUAAAAi/bugcat-capoo.gif" />
+<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/efbi1EpFlVUAAAAi/bugcat-capoo.gif" />
 
 <img src="https://i.pinimg.com/originals/92/40/9f/92409f75241dbe1c5962c01a3a72ccf0.gif" width="35px">&nbsp;***About me***
 
